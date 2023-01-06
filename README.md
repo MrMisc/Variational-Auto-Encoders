@@ -1,0 +1,2 @@
+# Variational Auto Encoders
+ A beginner's look at Variational Auto Encoders for image recreation.  It is very likely that this code was obtained from someone else for the most part. Given the age of this project, I sincerely apologise for not having referenced the appropriate people who were the original authors. The datasets and processes are my own, but the main base of a VAC was likely not my own creation from the beginning. Also this was a University Project as well!
